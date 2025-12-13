@@ -5,6 +5,6 @@ Link To My Tableau Public Server to see my analysis on top 10 most happy countri
 
 https://public.tableau.com/app/profile/binil.john/viz/MyFinalProject_BinilJohn/AverageHappinessScoreRegion
 
-![Dashboard Screenshot](screenshot.png)
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](screenshot 2025-12-14 021151.png)
+![Dashboard Screenshot](screenshot 2025-12-14 021151.png)
 
