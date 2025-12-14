@@ -1,13 +1,37 @@
-# World-Happiness-Analysis
-World Happiness Analysis explores how happy people are around the world and what truly drives that happiness. By comparing countries using factors like income, health, freedom, and social support, it reveals why some nations thrive while others struggle. It offers simple insights into what makes life better across the globe. 🌍✨
+🌍 World Happiness Analysis
+📊 Project Description
 
-Link To My Tableau Public Server to see my analysis on top 10 most happy countries and least 10 happy countries
+This project analyzes happiness levels across countries using global data. It explores key factors such as income, health, social support, freedom, and trust to understand what influences happiness worldwide.
 
-To view full tabs and dashboards you need to signin in tableau public server 
+🔍 Key Insights
 
-https://public.tableau.com/app/profile/binil.john/viz/MyFinalProject_BinilJohn/AverageHappinessScoreRegion
+Comparison of happiness scores across countries
 
+Impact of economic and social factors on happiness
+
+Identification of top and bottom ranking countries
+
+🛠 Tools Used
+
+Tableau
+
+World Happiness Dataset
+
+📸 Dashboard Screenshots
 ![Dashboard Screenshot](Dashboard1.png)
 ![Dashboard Screenshot](Dashboard2.png)
+Link---> https://public.tableau.com/app/profile/binil.john/viz/WorldHappinessAnalysis_17656553759740/HappinessAnalysisStory20152023
+📁 Files
+
+.twbx – Tableau packaged workbook
+
+README.md – Project overview
+
+Screenshot images of dashboards
+
+🔗 How to View
+
+Download the .twbx file and open it using Tableau Public or Tableau Desktop
+
 
 
