@@ -21,14 +21,11 @@ World Happiness Dataset
 ![Dashboard Screenshot](Dashboard1.png)
 ![Dashboard Screenshot](Dashboard2.png)
 Link---> https://public.tableau.com/app/profile/binil.john/viz/WorldHappinessAnalysis_17656553759740/HappinessAnalysisStory20152023
+
 📁 Files
-
 .twbx – Tableau packaged workbook
-
 README.md – Project overview
-
 Screenshot images of dashboards
-
 🔗 How to View
 
 Download the .twbx file and open it using Tableau Public or Tableau Desktop
